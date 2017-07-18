@@ -1,0 +1,2 @@
+# cursodec
+Curso de C
