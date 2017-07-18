@@ -1,2 +1,2 @@
-# cursodec
+# CursoDeC
 Curso de C
